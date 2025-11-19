@@ -1,6 +1,8 @@
 # awesome-toughbook
 
-[![CC BY-NC SA](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+<img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" alt="CC BY-NC-SA 4.0" width="88" height="31" />
+</a>
 
 My collection of resources and hard-earned information about Panasonic's Toughbook (and Toughpad) lines of incredibly capable and often dirt-cheap rugged computers
 
